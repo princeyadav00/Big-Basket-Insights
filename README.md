@@ -26,20 +26,5 @@ Visualizations
 6. Products Priced Above Average in Each Category
 7. Most Popular Product in Each Category Based on Highest Average Rating
 
-Project Structure
-
-.
-├── BigBasket Products.csv
-├── SQL Server
-└── PowerBI
-    ├── BigBasketDashboard.pbix
-    └── visuals
-        ├── category_distribution.pie
-        ├── sub_category_distribution.treemap
-        ├── avg_sale_price_per_sub_category.bar
-        ├── total_products_per_category.column
-        ├── high_rated_products.card
-        ├── products_priced_above_avg.scatter
-        └── most_popular_product.table
 
 
